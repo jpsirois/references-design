@@ -41,6 +41,7 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * [html inspiration](http://htmlinspiration.com/)
 * [Webdesig-Inspirations.com](http://www.webdesign-inspiration.com/)
 * [Pinterest - Web Design](http://www.pinterest.com/search/pins/?q=web%20design)
+* [Beautiful Pixels](https://beautifulpixels.com/)
 
 ## Printed materials
 * [Offscreen Magazine](http://www.offscreenmag.com/)
