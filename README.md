@@ -27,5 +27,23 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * References
   * [Cheat sheet to favicon sizes/types](https://github.com/audreyr/favicon-cheat-sheet)
 
+## Colors references & tools
+* [Color Scheme Designer](http://colorschemedesigner.com/)
+* [A collection of major brand color codes](http://brandcolors.net/)
+
+## Inspirations
+* [Dribbble](http://dribbble.com/)
+* [Behance - Web Design](http://www.behance.net/search?field=102)
+* [Smashing Magazine - Inspiration](http://www.smashingmagazine.com/category/inspiration/)
+* [CSS Zen Garden, yeah it’s back alive…](http://www.csszengarden.com/)
+* [Awwwards](http://www.awwwards.com/)
+* [siteInspire](http://www.siteinspire.com/)
+* [html inspiration](http://htmlinspiration.com/)
+* [Webdesig-Inspirations.com](http://www.webdesign-inspiration.com/)
+* [Pinterest - Web Design](http://www.pinterest.com/search/pins/?q=web%20design)
+
+## Printed materials
+* [Offscreen Magazine](http://www.offscreenmag.com/)
+
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
