@@ -29,6 +29,9 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 
 ## Colors references & tools
 * [Color Scheme Designer](http://colorschemedesigner.com/)
+* [COLOURlovers](http://www.colourlovers.com/)
+* [Adobe Kuler](https://kuler.adobe.com/)
+* [ColorCombos](http://www.colorcombos.com/)
 * [A collection of major brand color codes](http://brandcolors.net/)
 
 ## Inspirations
