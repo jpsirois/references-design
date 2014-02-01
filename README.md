@@ -14,6 +14,7 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * Free
   * http://weloveiconfonts.com/
   * [A set of icons for displaying a visual ("analog") representation of time stamps.](https://github.com/proevo/PE-Analog-Clock-icon-font)
+  * [Genericons](http://genericons.com/)
 
 ### Font icons Generators
 * http://fontello.com/
