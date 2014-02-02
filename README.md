@@ -29,11 +29,12 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * References
   * [Cheat sheet to favicon sizes/types](https://github.com/audreyr/favicon-cheat-sheet)
 
-## Image tools
+## Image tools & references
 * [1x1px](http://www.1x1px.me/) Transparent color PNG generator
 * [Image to data-uri convertor](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/) 
+* [Optimal settings for exporting SVGs for the web from Illustrator](http://stackoverflow.com/a/13238555/330433)
 
-## Colors references & tools
+## Colors tools & references
 * [Color Scheme Designer](http://colorschemedesigner.com/)
 * [COLOURlovers](http://www.colourlovers.com/)
 * [Adobe Kuler](https://kuler.adobe.com/)
