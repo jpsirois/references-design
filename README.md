@@ -29,6 +29,10 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * References
   * [Cheat sheet to favicon sizes/types](https://github.com/audreyr/favicon-cheat-sheet)
 
+## Image tools
+* [1x1px](http://www.1x1px.me/) Transparent color PNG generator
+* [Image to data-uri convertor](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/result/) 
+
 ## Colors references & tools
 * [Color Scheme Designer](http://colorschemedesigner.com/)
 * [COLOURlovers](http://www.colourlovers.com/)
