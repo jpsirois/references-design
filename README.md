@@ -31,7 +31,7 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 
 ## Image tools
 * [1x1px](http://www.1x1px.me/) Transparent color PNG generator
-* [Image to data-uri convertor](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/result/) 
+* [Image to data-uri convertor](http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/) 
 
 ## Colors references & tools
 * [Color Scheme Designer](http://colorschemedesigner.com/)
