@@ -52,5 +52,17 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 ## Printed materials
 * [Offscreen Magazine](http://www.offscreenmag.com/)
 
+## Videos
+### Stock Videos
+* Free
+  * https://vimeo.com/groups/freehd
+  * http://www.dissolve.com/free-clips
+  * http://www.stockfootageforfree.com/
+  * http://www.pond5.com/Free-Stock-Footage
+* Paying
+  * http://www.dissolve.com/
+  * http://www.pond5.com/stock-video-footage/1/*.html
+  * http://www.xstockvideo.com/
+
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
