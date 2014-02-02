@@ -57,7 +57,6 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * Free
   * https://vimeo.com/groups/freehd
   * http://www.dissolve.com/free-clips
-  * http://www.stockfootageforfree.com/
   * http://www.pond5.com/Free-Stock-Footage
 * Paying
   * http://www.dissolve.com/
