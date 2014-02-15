@@ -75,5 +75,19 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
   * http://www.pond5.com/stock-video-footage/1/*.html
   * http://www.xstockvideo.com/
 
+## WordPress Themes
+
+### 1st Choice
+* https://upthemes.com
+* http://okaythemes.com/wordpress-themes/
+* http://my.studiopress.com/themes/
+* https://thethemefoundry.com/wordpress-themes/
+* http://themetrust.com/themes
+
+### 2nd Choice
+* http://themify.me/themes
+* http://www.woothemes.com/product-category/themes/
+* http://www.elegantthemes.com/gallery/
+
 ## License
 © 2014 licensed under a [MIT license](http://jpsirois.mit-license.org/license.html).
