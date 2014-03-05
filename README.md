@@ -49,9 +49,8 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 ## Frameworks
 * [GUI Design Framework](http://www.webalys.com/design-interface-application-framework.php)
 
-## Tips & Tricks
+## Guide & Tips
 * [Speed Design with Illustrator. 14 tips to create interfaces in minutes](http://www.designsprint.net/)
-* 
 
 ## Inspirations
 ### Global
