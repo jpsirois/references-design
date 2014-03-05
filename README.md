@@ -19,13 +19,17 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 ### Font icons Generators
 * http://fontello.com/
 * http://fontcustom.com/
+* http://fontastic.me/
 
 ## Icons sets
 * Search tools
   * https://www.iconfinder.com
   * http://iconmelon.com/
 * Free sets
-  * http://simpleicons.org/
+  * http://simpleicons.org
+  * [Nasty Icons](http://nastyicons.com/)
+  * [210 Free Vector Icons](http://www.webalys.com/minicons/icons-free-pack.php)
+  * [100 Free iOS7 Vector Icons](http://www.streamlineicons.com/free-icons.html)
 * References
   * [Cheat sheet to favicon sizes/types](https://github.com/audreyr/favicon-cheat-sheet)
 
@@ -41,6 +45,13 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * [ColorCombos](http://www.colorcombos.com/)
 * [colourcode](http://colourco.de/)
 * [A collection of major brand color codes](http://brandcolors.net/)
+
+## Frameworks
+* [GUI Design Framework](http://www.webalys.com/design-interface-application-framework.php)
+
+## Tips & Tricks
+* [Speed Design with Illustrator. 14 tips to create interfaces in minutes](http://www.designsprint.net/)
+* 
 
 ## Inspirations
 ### Global
