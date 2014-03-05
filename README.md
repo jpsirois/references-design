@@ -4,6 +4,13 @@ I’m using this wiki as a references informations of various design related sub
 
 There’s nothing secret in there and as a front-end Web developer I thought it may be useful for other developers/designer too.
 
+## Design Softwares I use (in-progress)
+* [Sketch.app](http://www.bohemiancoding.com/sketch/)
+* [Slicy.app](http://macrabbit.com/slicy/)
+* [Hues.app](http://giantcomet.com/hues/)
+* [ImageOptim.app](http://imageoptim.com/)
+* [ImageAlpha.app](http://pngmini.com/)
+
 ## Fonts
 ### Text fonts
 * Paying
