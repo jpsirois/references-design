@@ -46,8 +46,9 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * [colourcode](http://colourco.de/)
 * [A collection of major brand color codes](http://brandcolors.net/)
 
-## Frameworks
+## Kit & Frameworks
 * [GUI Design Framework](http://www.webalys.com/design-interface-application-framework.php)
+* [Wireframe & UI Kit](http://theycallmecrowe.com/advice/crowe-wireframekit.html)
 
 ## Guide & Tips
 * [Speed Design with Illustrator. 14 tips to create interfaces in minutes](http://www.designsprint.net/)
