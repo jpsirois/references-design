@@ -11,6 +11,9 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 * [ImageOptim.app](http://imageoptim.com/)
 * [ImageAlpha.app](http://pngmini.com/)
 
+## Ressources
+* http://www.bluevertigo.com.ar/ (one of the greatest design ressources reference I know)
+
 ## Fonts
 ### Text fonts
 * Paying
@@ -81,6 +84,11 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 
 ## Printed materials
 * [Offscreen Magazine](http://www.offscreenmag.com/)
+
+## Photos
+### Stock Photos
+* Paying
+  * http://www.dollarphotoclub.com/ (1$ per photo, minimum of 10$ per month, that include 10 free photos)
 
 ## Videos
 ### Stock Videos
