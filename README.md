@@ -97,6 +97,7 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
 ## Videos
 ### Stock Videos
 * Free
+  * http://mazwai.com/
   * https://vimeo.com/groups/freehd
   * http://www.dissolve.com/free-clips
   * http://www.pond5.com/Free-Stock-Footage
