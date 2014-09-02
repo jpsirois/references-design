@@ -106,16 +106,16 @@ There’s nothing secret in there and as a front-end Web developer I thought it 
   * http://www.pond5.com/stock-video-footage/1/*.html
   * http://www.xstockvideo.com/
 
+## HTML Templates
+* http://html5up.net/
+
 ## WordPress Themes
 
-### 1st Choice
 * https://upthemes.com
 * http://okaythemes.com/wordpress-themes/
 * http://my.studiopress.com/themes/
 * https://thethemefoundry.com/wordpress-themes/
 * http://themetrust.com/themes
-
-### 2nd Choice
 * http://themify.me/themes
 * http://www.woothemes.com/product-category/themes/
 * http://www.elegantthemes.com/gallery/
